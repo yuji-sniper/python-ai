@@ -12,6 +12,7 @@ ipykernel = "^6.28.0"
 scikit-learn = "^1.4.0"
 torch = "^2.2.0"
 torchvision = "^0.17.0"
+pytorch-lightning = "^2.1.4"
 
 
 [build-system]
